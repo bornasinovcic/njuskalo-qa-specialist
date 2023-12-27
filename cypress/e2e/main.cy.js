@@ -4,6 +4,8 @@ describe('Main spec', () => {
 
   beforeEach(() => {
     cy.visit('https://www.njuskalo.hr/')
+    cy.get('#didomi-notice-agree-button')
+      .click()
   })
 
   it('Login and logout', () => {
