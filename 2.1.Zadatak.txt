@@ -1,0 +1,10 @@
+Jeste li nedavno ažurirali Njuškalo aplikaciju na najnoviju verziju?
+Na kojem tipu uređaju koristite Njuškalo aplikaciju (mobile, desktop, tablet)?
+Koja je verzija operativnog sustava na vašem uređaju (Android, iOS, Windows)?
+Jeste li primijetili neku specifičnu poruku o grešci kada pokušavate koristiti aplikaciju?
+Da li je problem prisutan samo pri određenim radnjama unutar aplikacije (npr. pretraživanje oglasa, slanje poruka, postavljanje oglasa)?
+Imate li pristup internetu na uređaju na kojem koristite aplikaciju i je li internetska veza stabilna?
+Jeste li pokušali ponovno pokrenuti uređaj i zatim otvoriti aplikaciju?
+Je li problem prisutan samo na Njuškalo aplikaciji ili se javlja i s drugim aplikacijama?
+Da li ste imali slične probleme s drugim aplikacijama nakon posljednjeg ažuriranja?
+Jeste li pokušali deinstalirati i ponovno instalirati Njuškalo aplikaciju?

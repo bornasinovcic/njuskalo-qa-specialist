@@ -1,0 +1,13 @@
+Scenarij: Registracija na Njuškalo kao Kupac
+   Korak 1: Pokretanje internet pretraživača
+   Korak 2: Odlazak na link https://www.njuskalo.hr/registracija/
+   Korak 3: Klik na anchor element s atributom "href" koji sadrži tekstualnu vrijednost "/registracija/kupac/"
+   Korak 4: Unos željenog korisničkog imena u input polje s id-jem "form1-username"
+   Korak 5: Unos željene lozinke u input polje s id-jem "form1-password"
+   Korak 6: Unos željene e-mail adrese u input polje s id-jem "form1-email"
+   Korak 7: Klik na oba dva check boxa s id-jevima "acceptance-acceptPrivacyPolicy" i "acceptance-acceptTermsAndConditions"
+   Korak 8: Klik na button element koji sadrži tekstualnu vrijednost "Registriraj se"
+   Korak 9: Na pop up izborniku kliknuti na button element koji sadrži tekstualnu vrijednost "Preskoči i završi registraciju"
+   Korak 10: Potvrditi da se pojavio span element s tekstualnom vrijednosti "VAUUU!" i p element s tekstualnom
+      vrijednosti "Klikni na aktivacijski link koji sam ti upravo poslao!"
+   Korak 11: Klik na anchor element koji sadrži tekstualnu vrijednost "Završi"
