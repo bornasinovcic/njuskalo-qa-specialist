@@ -3,7 +3,7 @@
 1. git clone this repository
 2. cd into cloned repository and open it in editor of choice
 3. input username and password for an existing profile on njuskalo.hr website in `cypress/e2e/main.cy.js` file
-4. run command to insall cypress
+4. run command to install cypress
     ```
     npm install cypress --save-dev
     ```
